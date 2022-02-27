@@ -1,0 +1,39 @@
+class AppStrings {
+  static const String home = 'Home';
+  static const String talkToAstrologer = 'Talk To Astrologer';
+  static const String askQuestion = 'Ask Question';
+  static const String reports = 'Reports';
+  static const String chatWithAstrologer = 'Chat with Astrologer';
+  static const String talkToAnAstrologer = 'Talk to an Astrologer';
+
+  static const String walletBalance = "Wallet Balance";
+  static const String rupeesSign = "₹";
+  static const String addMoney = "Add Money";
+  static const String askNow = "Ask Now";
+  static const String askAQuestion ="Ask A Question";
+  static const String chooseCategory ="Choose Category";
+  static const String typeAText = "Type a question here";
+  static const String ideasWhatToAsk = "Ideas What To Ask(Select Any)";
+  static const String seekingAccurate = "Seeking accurate answers to difficult questions troubling your mind? Ask credible astrologers to know what future has in store for you";
+  static const String askQuestionMessage = "Seek accurate answers to your life problems and get guidance towards the right path. Wether the  problem is releated to love,self.life,business,money,education or work,our astrologers will do an in depth study of your birth chart to provide personalized response along with remedies.";
+  static const String note1 = "Personalized responses provided by our team of vedic astrologers with in 24 hours.";
+  static const String note2 = "Qualified and experienced astrologers will look into your birth chart and provide the right guidance.";
+  static const String note3 = "You can seek answers to any part of your life and for most pressing issue.";
+  static const String note4 = "Our team of vedic astrologers will not just provide answers but also suggest a remedial solution.";
+  static const String logout = "Logout";
+  static const String myProfile ="My Profile";
+  static const String orderHistory = "Order History";
+  static const String basicProfile = "Basic Profile";
+  static const String friendsAndFamilyProfile = "Friends and family profile";
+  static const String addNewProfile = "+ Add New Profile";
+  static const String addNewProfileText = "Add New Profile";
+  static const String name = "Name";
+  static const String dateOfBirth = "Date Of Birth";
+  static const String timeOfBirth = "Time Of Birth";
+  static const String placeOfBirth = "Place Of Birth";
+  static const String gender = "Gender";
+  static const String relation = "Relation";
+  static const String saveChanges = "Save Changes";
+  static const String DOB = "TOB";
+  static const String TOB = "TOB";
+}
